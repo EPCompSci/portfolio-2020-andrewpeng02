@@ -1,5 +1,5 @@
 # iOS-Portfolio
-I'm Andrew Peng, and this is my portfolio of all the apps I created as part of my high school iOS App Development class (Fall 2020). I learned about how to create a basic user interface with animations, as well as creating games using Apple's SpriteKit framework. This was mainly a self-taught class, and I learned through online resources such as Apple tutorials or developer blogs/tutorials.
+I'm Andrew Peng, and this is my portfolio of all the apps I created as part of my high school iOS App Development class (Fall 2020). I learned about how to create a basic user interface with animations, as well as creating games using Apple's SpriteKit framework. This was mainly a self-taught class, and I learned through online resources such as Apple tutorials or developer blogs/tutorials. I also learned about good git workflows with teams, such as forks, pull requests, and branches.
 
 # iOS Apps
 ## [Stratagem](https://github.com/Stratagem-Studios/Stratagem)

@@ -1,9 +1,16 @@
 # iOS-Portfolio
-2018-2019 Portfolio
+I'm Andrew Peng, and this is my portfolio of all the apps I created as part of my high school iOS App Development class (Fall 2020). I learned about how to create a basic user interface with animations, as well as creating games using Apple's SpriteKit framework. This was mainly a self-taught class, and I learned through online resources such as Apple tutorials or developer blogs/tutorials. I also learned about good git workflows with teams, such as forks, pull requests, and branches.
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+# iOS Apps
+## [Stratagem](https://github.com/Stratagem-Studios/Stratagem)
+A work in progress game built with SwiftUI, collaberating with Niraj Amin, Martin Zhou, and Jacob Peterson. This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+## [Task Manager](https://github.com/andrewpeng02/task-manager-swiftUI/)
+![](https://github.com/EPCompSci/portfolio-2020-andrewpeng02/blob/master/Task%20Manager.png)
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+A basic task manager that supports adding, deleting, and finishing tasks with deadlines. I learned about basic animations and SwiftUI views in this project.
 
+# Programming Experience
+- Java (2015-)
+- Python (2017-)
+- Swift (2020-)

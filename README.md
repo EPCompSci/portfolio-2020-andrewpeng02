@@ -6,6 +6,8 @@ I'm Andrew Peng, and this is my portfolio of all the apps I created as part of m
 A work in progress game built with SwiftUI, collaberating with Niraj Amin, Martin Zhou, and Jacob Peterson. This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
 
 ## [Task Manager](https://github.com/andrewpeng02/task-manager-swiftUI/)
+![](https://github.com/EPCompSci/portfolio-2020-andrewpeng02/blob/master/Task%20Manager.png)
+
 A basic task manager that supports adding, deleting, and finishing tasks with deadlines. I learned about basic animations and SwiftUI views in this project.
 
 # Programming Experience

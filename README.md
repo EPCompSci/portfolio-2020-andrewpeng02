@@ -10,6 +10,11 @@ A work in progress game built with SwiftUI, collaberating with Niraj Amin, Marti
 
 A basic task manager that supports adding, deleting, and finishing tasks with deadlines. I learned about basic animations and SwiftUI views in this project.
 
+# Other
+## [GPU Monitor](https://github.com/andrewpeng02/gpu-monitor-plugin)
+![](https://github.com/andrewpeng02/gpu-monitor-plugin/blob/master/gpu-monitor-graphs.png)
+A simple plugin for IntelliJ IDEs that shows gpu usage, temperature, and more. Coded in Java. 
+
 # Programming Experience
 - Java (2015-)
 - Python (2017-)

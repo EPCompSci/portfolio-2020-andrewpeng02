@@ -8,7 +8,7 @@ A work in progress game built with SwiftUI, collaberating with Niraj Amin, Marti
 ## [Task Manager](https://github.com/andrewpeng02/task-manager-swiftUI/)
 ![](https://github.com/EPCompSci/portfolio-2020-andrewpeng02/blob/master/Task%20Manager.png)
 
-A basic task manager that supports adding, deleting, and finishing tasks with deadlines. I learned about basic animations and SwiftUI views in this project.
+A basic task manager that supports adding, deleting, and finishing tasks with deadlines. I learned about basic animations and SwiftUI views in this project. Animations were the most challenging because it was not clear when a view would animate, but I eventually figured it out with some trial and error. 
 
 # Other
 ## [GPU Monitor](https://github.com/andrewpeng02/gpu-monitor-plugin)

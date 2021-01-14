@@ -3,7 +3,31 @@ I'm Andrew Peng, and this is my portfolio of all the apps I created as part of m
 
 # iOS Apps
 ## [Stratagem](https://github.com/Stratagem-Studios/Stratagem)
-A work in progress game built with SwiftUI, collaberating with Niraj Amin, Martin Zhou, and Jacob Peterson. This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
+A work in progress game built with SwiftUI, collaberating with Niraj Amin (also developer), Martin Zhou (art), and Jacob Peterson (marketing/music). This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
+
+I mainly worked on the city view and database synchronization (with Firebase). One of my biggest challenges was deciding how to synchronize player data using a database, and I ended up letting the owner of the city/planets be the source of truth. For an actual project, I would've chosen a server-client model next time because player data won't be lost on disconnect, the games are less prone to modification, and it's more clear what data is shared with the different clients. 
+
+I also modified the [SKTiled](https://github.com/mfessenden/SKTiled) framework, which I used to create the city itself that the player could build and destroy buildings. I ended up learning how to navigate an unfamilier framework and learned a lot more about SpriteKit this way. I modified SKTiled to lock the camera on the tilemap boundaries, and I also added an alpha layer to each tile so you can properly tap on the right tile. This is where I spent most of my time coding.
+
+
+![Menu screen](Stratagem%20screenshots/menu%20screen.png)
+Menu screen
+
+
+![Menu screen](Stratagem%20screenshots/galaxy.png)
+Galaxy view, where you can view planets
+
+
+![Menu screen](Stratagem%20screenshots/planet.png)
+Planet view, where you can drag the planet around and view your cities
+
+
+![Menu screen](Stratagem%20screenshots/city.png)
+City view, where you can view your city and build/destroy special buildings. We used the [SKTiled](https://github.com/mfessenden/SKTiled) framework to handle the tilemap. 
+
+![Menu screen](Stratagem%20screenshots/queue.png)
+You can create military units in this building, which has a unique responsive UI.
+
 
 ## [Task Manager](https://github.com/andrewpeng02/task-manager-swiftUI/)
 ![](https://github.com/EPCompSci/portfolio-2020-andrewpeng02/blob/master/Task%20Manager.png)

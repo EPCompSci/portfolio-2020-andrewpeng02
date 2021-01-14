@@ -3,11 +3,11 @@ I'm Andrew Peng, and this is my portfolio of all the apps I created as part of m
 
 # iOS Apps
 ## [Stratagem](https://github.com/Stratagem-Studios/Stratagem)
-A work in progress game built with SwiftUI, collaberating with Niraj Amin (also developer), Martin Zhou (art), and Jacob Peterson (marketing/music). This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
+An alpha game built with SwiftUI, collaberating with Niraj Amin (also developer), Martin Zhou (art), and Jacob Peterson (marketing/music). This game can best be described as a real-time-stratagy game that's easy to learn and fun with friends.
 
-I mainly worked on the city view and database synchronization (with Firebase). One of my biggest challenges was deciding how to synchronize player data using a database, and I ended up letting the owner of the city/planets be the source of truth. For an actual project, I would've chosen a server-client model next time because player data won't be lost on disconnect, the games are less prone to modification, and it's more clear what data is shared with the different clients. 
+I mainly worked on the city view and database synchronization with Firebase. One of my biggest challenges was deciding how to synchronize player data using a database, and I ended up letting the owner of the city/planets be the singular source of truth. For an actual project, I would've chosen a server-client model next time because player data won't be lost on disconnect, the games are less prone to modification, and it's more clear what data is shared with the different clients. 
 
-I also modified the [SKTiled](https://github.com/mfessenden/SKTiled) framework, which I used to create the city itself that the player could build and destroy buildings. I ended up learning how to navigate an unfamilier framework and learned a lot more about SpriteKit this way. I modified SKTiled to lock the camera on the tilemap boundaries, and I also added an alpha layer to each tile so you can properly tap on the right tile. This is where I spent most of my time coding.
+I also modified the [SKTiled](https://github.com/mfessenden/SKTiled) framework, which I used to create the city itself. Players can build and destroy buildings on their owned cities, giving them more resources and units. I ended up learning how to navigate an unfamilier framework and learned a lot more about SpriteKit this way. I modified SKTiled to lock the camera on the tilemap boundaries, and I also added an alpha layer to each tile so you can properly tap on the right tile. This is where I spent most of my time coding.
 
 
 ![Menu screen](Stratagem%20screenshots/galaxy.png)

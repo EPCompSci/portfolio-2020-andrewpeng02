@@ -10,10 +10,6 @@ I mainly worked on the city view and database synchronization (with Firebase). O
 I also modified the [SKTiled](https://github.com/mfessenden/SKTiled) framework, which I used to create the city itself that the player could build and destroy buildings. I ended up learning how to navigate an unfamilier framework and learned a lot more about SpriteKit this way. I modified SKTiled to lock the camera on the tilemap boundaries, and I also added an alpha layer to each tile so you can properly tap on the right tile. This is where I spent most of my time coding.
 
 
-![Menu screen](Stratagem%20screenshots/menu%20screen.png)
-Menu screen
-
-
 ![Menu screen](Stratagem%20screenshots/galaxy.png)
 Galaxy view, where you can view planets
 

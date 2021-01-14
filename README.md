@@ -11,11 +11,11 @@ I also modified the [SKTiled](https://github.com/mfessenden/SKTiled) framework, 
 
 
 ![Menu screen](Stratagem%20screenshots/galaxy.png)
-Galaxy view, where you can view planets
+Galaxy view, where you can view all the planets.
 
 
 ![Menu screen](Stratagem%20screenshots/planet.png)
-Planet view, where you can drag the planet around and view your cities
+Planet view, where you can drag the planet around and view the cities on that planet.
 
 
 ![Menu screen](Stratagem%20screenshots/city.png)
